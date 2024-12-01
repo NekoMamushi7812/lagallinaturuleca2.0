@@ -561,3 +561,16 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01Dec2024 21:13:23.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Moisesito07 to NekoSamy
 [01Dec2024 21:13:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [01Dec2024 21:15:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Alex's Mobs]
+[01Dec2024 21:26:54.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 21:26:54.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ztime set day<--[HERE]
+[01Dec2024 21:27:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[01Dec2024 21:28:15.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Andesite] to NekoSamy
+[01Dec2024 21:28:25.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 150 [Andesite] to NekoSamy
+[01Dec2024 21:28:34.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 150 [Andesite] to NekoSamy
+[01Dec2024 21:29:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy a server operator
+[01Dec2024 21:29:14.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Creative Mode]
+[01Dec2024 21:29:34.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Hunt and Gather]
+[01Dec2024 21:29:57.265] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: NekoSamy loaded /workspaces/lagallinaturuleca2.0/servidor_minecraft/config/worldedit/schematics/cas2pisosinterminar.schem
+[01Dec2024 21:32:12.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Survival Mode]
+[01Dec2024 21:32:17.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy no longer a server operator
+[01Dec2024 21:40:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Stone Age]
