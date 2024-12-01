@@ -591,3 +591,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01Dec2024 22:03:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [01Dec2024 22:09:26.984] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-133, y=37, z=1308} but found not block entity block Block{minecraft:water}[level=8] at location
 [01Dec2024 22:09:26.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-133, y=37, z=1308}
+[01Dec2024 22:12:40.318] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[01Dec2024 22:12:40.401] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[01Dec2024 22:15:22.572] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[01Dec2024 22:15:22.573] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[01Dec2024 22:15:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[01Dec2024 22:18:45.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy has made the advancement [First Village]

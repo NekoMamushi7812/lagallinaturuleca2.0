@@ -84,6 +84,8 @@
       "woodland": "2024-11-04 23:09:26 +0000",
       "shrubland": "2024-11-06 01:40:12 +0000",
       "old_growth_woodland": "2024-11-06 19:34:28 +0000",
+      "field": "2024-12-01 22:11:17 +0000",
+      "coniferous_forest": "2024-12-01 22:12:40 +0000",
       "spider_nest": "2024-11-06 02:11:36 +0000",
       "redwood_forest": "2024-12-01 22:08:28 +0000",
       "grassland": "2024-11-06 01:39:52 +0000",
@@ -2017,8 +2019,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-01 22:17:39 +0000",
+      "minecraft:beach": "2024-12-01 22:18:07 +0000",
       "minecraft:lukewarm_ocean": "2024-11-04 23:44:26 +0000",
       "minecraft:river": "2024-11-06 02:27:55 +0000",
+      "minecraft:snowy_plains": "2024-12-01 22:15:31 +0000",
+      "minecraft:snowy_taiga": "2024-12-01 22:17:18 +0000",
+      "minecraft:forest": "2024-12-01 22:17:44 +0000",
       "minecraft:deep_dark": "2024-11-04 23:30:38 +0000",
       "minecraft:plains": "2024-11-07 04:17:32 +0000"
     },
@@ -4551,6 +4558,24 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2024-12-01 22:18:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-12-01 22:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 22:17:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_redwood_planks": "2024-12-01 22:08:31 +0000"
@@ -4563,9 +4588,27 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-12-01 22:17:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-01 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 22:17:47 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 22:17:21 +0000"
     },
     "done": true
   },
@@ -4581,9 +4624,21 @@
     },
     "done": true
   },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2024-12-01 22:18:45 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2024-12-01 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 22:17:21 +0000"
     },
     "done": true
   },
@@ -4596,6 +4651,12 @@
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2024-12-01 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 22:17:21 +0000"
     },
     "done": true
   },
@@ -4626,6 +4687,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-01 21:00:38 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 22:17:21 +0000"
     },
     "done": true
   },

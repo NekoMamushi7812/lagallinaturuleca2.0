@@ -10551,3 +10551,147 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01Dec2024 22:10:43.161] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
 [01Dec2024 22:10:49.970] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
 [01Dec2024 22:10:49.989] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[01Dec2024 22:11:22.275] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Dec2024 22:11:27.588] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[01Dec2024 22:11:27.595] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[01Dec2024 22:12:40.318] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[01Dec2024 22:12:40.321] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/inter
+[01Dec2024 22:12:40.324] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/big_1
+[01Dec2024 22:12:40.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/big_2
+[01Dec2024 22:12:40.329] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/med_1
+[01Dec2024 22:12:40.331] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/med_2
+[01Dec2024 22:12:40.333] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/med_3
+[01Dec2024 22:12:40.335] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/small_1
+[01Dec2024 22:12:40.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/small_2
+[01Dec2024 22:12:40.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/small_3
+[01Dec2024 22:12:40.339] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/house/small_4
+[01Dec2024 22:12:40.341] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/butcher
+[01Dec2024 22:12:40.342] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/cartography
+[01Dec2024 22:12:40.344] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/chemist
+[01Dec2024 22:12:40.345] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/farm
+[01Dec2024 22:12:40.347] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/fishing_hut
+[01Dec2024 22:12:40.348] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/library
+[01Dec2024 22:12:40.349] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/mason
+[01Dec2024 22:12:40.351] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/shepherd
+[01Dec2024 22:12:40.353] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/smith
+[01Dec2024 22:12:40.354] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/tannery
+[01Dec2024 22:12:40.356] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/fd_farm
+[01Dec2024 22:12:40.357] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/engineer
+[01Dec2024 22:12:40.358] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/garden
+[01Dec2024 22:12:40.359] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/hunter
+[01Dec2024 22:12:40.361] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/oceanographer
+[01Dec2024 22:12:40.362] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/jobsite/woodworker
+[01Dec2024 22:12:40.363] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/lamp_1
+[01Dec2024 22:12:40.363] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/lamp_2
+[01Dec2024 22:12:40.363] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/lamp_3
+[01Dec2024 22:12:40.364] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/lamp_4
+[01Dec2024 22:12:40.364] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/lamp_5
+[01Dec2024 22:12:40.365] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/snowglobe
+[01Dec2024 22:12:40.365] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/snowman
+[01Dec2024 22:12:40.366] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/tree
+[01Dec2024 22:12:40.367] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/deco/goddess_statue
+[01Dec2024 22:12:40.376] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/straight
+[01Dec2024 22:12:40.384] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/bent_1
+[01Dec2024 22:12:40.393] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/t_1
+[01Dec2024 22:12:40.400] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/bent_2
+[01Dec2024 22:12:40.401] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/t_3
+[01Dec2024 22:12:40.401] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[01Dec2024 22:12:40.439] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[01Dec2024 22:12:40.439] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[01Dec2024 22:12:40.439] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[01Dec2024 22:12:41.120] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/t_2
+[01Dec2024 22:12:41.497] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/christmas/roads/terminator
+[01Dec2024 22:13:59.304] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_straight_1
+[01Dec2024 22:13:59.306] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_mid_1
+[01Dec2024 22:13:59.308] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_6
+[01Dec2024 22:13:59.310] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_29
+[01Dec2024 22:13:59.312] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_17
+[01Dec2024 22:13:59.314] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_8
+[01Dec2024 22:13:59.316] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_24
+[01Dec2024 22:13:59.317] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_6
+[01Dec2024 22:13:59.319] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_19
+[01Dec2024 22:13:59.326] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_20
+[01Dec2024 22:13:59.328] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_16
+[01Dec2024 22:13:59.329] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_4
+[01Dec2024 22:13:59.331] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_21
+[01Dec2024 22:13:59.332] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_2
+[01Dec2024 22:13:59.334] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/t/corridor_t_2
+[01Dec2024 22:13:59.335] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_7
+[01Dec2024 22:13:59.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_23
+[01Dec2024 22:13:59.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_11
+[01Dec2024 22:13:59.340] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_10
+[01Dec2024 22:13:59.343] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_2
+[01Dec2024 22:13:59.347] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_32
+[01Dec2024 22:14:02.893] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_07
+[01Dec2024 22:14:08.241] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:frostmaw_spawn is being run through DFU (hash 1a197889d263c12966f1abd25989fefe2ef31123d3bbe370dc207a1d953a454a), this will cause launch time delays
+[01Dec2024 22:14:20.813] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_04
+[01Dec2024 22:14:20.833] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_0_2
+[01Dec2024 22:14:20.834] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_3
+[01Dec2024 22:14:20.835] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_1
+[01Dec2024 22:14:20.836] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_18
+[01Dec2024 22:14:20.837] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_11
+[01Dec2024 22:14:20.839] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_2
+[01Dec2024 22:14:20.840] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_1
+[01Dec2024 22:14:20.840] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_31
+[01Dec2024 22:14:20.841] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_4
+[01Dec2024 22:14:20.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_7
+[01Dec2024 22:14:20.843] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_11
+[01Dec2024 22:14:20.844] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_22
+[01Dec2024 22:14:20.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_10
+[01Dec2024 22:14:20.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_9
+[01Dec2024 22:14:20.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_8
+[01Dec2024 22:14:20.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_5
+[01Dec2024 22:14:20.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_7
+[01Dec2024 22:14:20.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_1
+[01Dec2024 22:14:37.846] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[01Dec2024 22:14:59.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:14:59.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:15:03.245] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_woodworker
+[01Dec2024 22:15:03.251] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_hunter
+[01Dec2024 22:15:03.251] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[01Dec2024 22:15:03.251] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[01Dec2024 22:15:03.252] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[01Dec2024 22:15:03.253] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_oceanographer
+[01Dec2024 22:15:03.255] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[01Dec2024 22:15:03.257] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_engineer
+[01Dec2024 22:15:03.259] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_florist
+[01Dec2024 22:15:21.419] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:snowy_village_horned_statue is being run through DFU (hash 3993cdc43e481826ab3b4717f4baa738c0329e45bb96e9becc02db2e1e453aed), this will cause launch time delays
+[01Dec2024 22:15:21.696] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_woodworker is being run through DFU (hash 235d2abd833a48cdbddf7c70caf7e502ddd4b400b62935aaed73434fd57f9f29), this will cause launch time delays
+[01Dec2024 22:15:21.745] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_oceanographer is being run through DFU (hash 86f82696fa2d18f5ac12ab1b1ef82357304b4201a1e1d3ed90a2db9380022d63), this will cause launch time delays
+[01Dec2024 22:15:21.773] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_florist is being run through DFU (hash 264e3636b6e8914adced417a87cf7b0a4f4b4221c66256fe5089d7e856f460e2), this will cause launch time delays
+[01Dec2024 22:15:21.792] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_hunter is being run through DFU (hash 86e27179b2d15170c231881a235e1996000ee66eae2847869e56de3aeb7850de), this will cause launch time delays
+[01Dec2024 22:15:21.812] [Worker-Main-1/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_engineer is being run through DFU (hash 20bece5e4b609f61d0c3f70c6a34fe93f574aaae6fa81f74eac3b251b859fda7), this will cause launch time delays
+[01Dec2024 22:15:22.572] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[01Dec2024 22:15:22.573] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[01Dec2024 22:15:32.388] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t2 is being run through DFU (hash 90cd79756951abebab3b7d26a66d78c13a7e2ff1c79b2c7c2cf3dbdb47749ae0), this will cause launch time delays
+[01Dec2024 22:15:32.416] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term1 is being run through DFU (hash 4e17199e1fd91b3aeeb258eb757ab84cc78d7cac13c8a0d97456cee903cf8fa3), this will cause launch time delays
+[01Dec2024 22:15:32.420] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend2 is being run through DFU (hash 84e95bfde4d28347074b278cfacb2be185c2fc11a1afb1cfb8e6c356c9bb66ba), this will cause launch time delays
+[01Dec2024 22:15:32.524] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend1 is being run through DFU (hash dfd55ed6fb8dbad706164993e7e1aab1fc814fe23a2f7be8b621c994b4118f0f), this will cause launch time delays
+[01Dec2024 22:15:32.540] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight1 is being run through DFU (hash 4a018179f4091762355585a516df34c84496d4f75f78d5877f224bc666545ffa), this will cause launch time delays
+[01Dec2024 22:15:32.556] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight2 is being run through DFU (hash bdb2e3e0151dbfe85370a027fdb9f291780d0fc92627f13f612910548cbc234f), this will cause launch time delays
+[01Dec2024 22:15:32.589] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term2 is being run through DFU (hash 42d9ab04a9e2740e7009c385bd8ce365082f20271eb28e3e32b91db2c9feca16), this will cause launch time delays
+[01Dec2024 22:15:32.634] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t1 is being run through DFU (hash b9cac668944bcf60fe9691756ee628f5e82f7f2d81f39fc6d2498dea8fe9e89d), this will cause launch time delays
+[01Dec2024 22:15:32.850] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/inter1 is being run through DFU (hash 4e8fc473da2220f2e0fb44202ebdf37c63d78f44f4c52f84fc357bb5e72190e4), this will cause launch time delays
+[01Dec2024 22:15:32.855] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term3 is being run through DFU (hash 815d826fcc91aabfd7fabd8e9fdf252504627fb7674055b8ded6680715fa6806), this will cause launch time delays
+[01Dec2024 22:15:32.860] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/intersection_big is being run through DFU (hash e1d39000b62f7e92df288f95bf6da184026d6b5cb67c6adef7380d2e9f5290c7), this will cause launch time delays
+[01Dec2024 22:15:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[01Dec2024 22:16:11.894] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_0_3
+[01Dec2024 22:16:11.896] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_12
+[01Dec2024 22:16:11.898] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_3
+[01Dec2024 22:16:11.900] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_8
+[01Dec2024 22:16:11.902] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_13
+[01Dec2024 22:16:11.903] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_6
+[01Dec2024 22:17:24.486] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=842, y=80, z=2093}) doesn't have enough leaves around top most log
+[01Dec2024 22:17:41.049] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_0_4
+[01Dec2024 22:17:41.055] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_2
+[01Dec2024 22:17:41.057] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_28
+[01Dec2024 22:17:41.058] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_3
+[01Dec2024 22:18:45.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy has made the advancement [First Village]
+[01Dec2024 22:19:58.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_9
+[01Dec2024 22:19:58.212] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_7
+[01Dec2024 22:19:58.213] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_3
+[01Dec2024 22:19:59.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 22:19:59.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 22:21:14.963] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_4_4
+[01Dec2024 22:21:14.965] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_1
+[01Dec2024 22:21:14.967] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_10
