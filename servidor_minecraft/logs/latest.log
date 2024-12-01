@@ -582,3 +582,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01Dec2024 21:48:53.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy no longer a server operator
 [01Dec2024 21:49:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy has made the advancement [Bonfire Lit]
 [01Dec2024 21:50:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Let's Get To Work]
+[01Dec2024 21:52:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Isn't It Iron Pick]
+[01Dec2024 21:57:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Moisesito07 to NekoSamy
+[01Dec2024 21:58:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy a server operator
+[01Dec2024 21:58:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Creative Mode]
+[01Dec2024 21:58:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Survival Mode]
+[01Dec2024 21:59:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy no longer a server operator
