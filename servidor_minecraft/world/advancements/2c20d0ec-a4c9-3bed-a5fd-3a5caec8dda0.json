@@ -2026,6 +2026,7 @@
       "minecraft:snowy_plains": "2024-12-01 22:15:31 +0000",
       "minecraft:snowy_taiga": "2024-12-01 22:17:18 +0000",
       "minecraft:forest": "2024-12-01 22:17:44 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-01 22:25:44 +0000",
       "minecraft:deep_dark": "2024-11-04 23:30:38 +0000",
       "minecraft:plains": "2024-11-07 04:17:32 +0000"
     },
@@ -4606,9 +4607,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-01 22:20:07 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-01 22:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-01 22:20:07 +0000"
     },
     "done": true
   },

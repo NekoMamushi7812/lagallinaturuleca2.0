@@ -597,3 +597,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01Dec2024 22:15:22.573] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
 [01Dec2024 22:15:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [01Dec2024 22:18:45.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy has made the advancement [First Village]
+[01Dec2024 22:26:26.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy a server operator
+[01Dec2024 22:26:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy no longer a server operator
+[01Dec2024 22:26:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[01Dec2024 22:31:11.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
