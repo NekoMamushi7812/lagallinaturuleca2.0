@@ -574,3 +574,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [01Dec2024 21:32:12.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Survival Mode]
 [01Dec2024 21:32:17.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy no longer a server operator
 [01Dec2024 21:40:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Stone Age]
+[01Dec2024 21:42:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Acquire Hardware]
+[01Dec2024 21:43:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Suit Up]
+[01Dec2024 21:48:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy a server operator
+[01Dec2024 21:48:42.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Creative Mode]
+[01Dec2024 21:48:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Survival Mode]
+[01Dec2024 21:48:53.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy no longer a server operator
+[01Dec2024 21:49:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy has made the advancement [Bonfire Lit]
+[01Dec2024 21:50:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Let's Get To Work]
