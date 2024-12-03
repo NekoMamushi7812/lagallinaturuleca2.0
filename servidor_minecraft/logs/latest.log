@@ -534,3 +534,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [03Dec2024 21:55:59.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Moisesito07 (5f14d0ba-c5c2-3203-8507-cecb917cebe7) successfully connected to voice chat
 [03Dec2024 22:02:49.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [03Dec2024 22:03:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Monster Hunter]
+[03Dec2024 22:03:55.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Not Today, Thank You]
+[03Dec2024 22:05:10.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 has made the advancement [Diamonds!]
+[03Dec2024 22:05:38.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moisesito07 lost connection: Disconnected
+[03Dec2024 22:05:38.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 left the game
+[03Dec2024 22:05:38.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Moisesito07
