@@ -539,3 +539,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [03Dec2024 22:05:38.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moisesito07 lost connection: Disconnected
 [03Dec2024 22:05:38.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 left the game
 [03Dec2024 22:05:38.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Moisesito07
+[03Dec2024 22:14:55.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Moisesito07[/127.134.242.242:59803] logged in with entity id 6539 at (-802.5325491077185, -25.0, 932.5870788718238)
+[03Dec2024 22:14:55.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 joined the game
+[03Dec2024 22:14:55.701] [Server thread/INFO] [Jade/]: Syncing config to Moisesito07 (5f14d0ba-c5c2-3203-8507-cecb917cebe7)
+[03Dec2024 22:14:56.926] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Moisesito07 (18)
+[03Dec2024 22:14:56.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Moisesito07
+[03Dec2024 22:14:56.945] [Netty Epoll Server IO #0/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Moisesito07: protocol version: 2.0
+[03Dec2024 22:15:00.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5f14d0ba-c5c2-3203-8507-cecb917cebe7
+[03Dec2024 22:15:01.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5f14d0ba-c5c2-3203-8507-cecb917cebe7
+[03Dec2024 22:15:01.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Moisesito07 (5f14d0ba-c5c2-3203-8507-cecb917cebe7) successfully connected to voice chat
+[03Dec2024 22:17:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Moisesito07 to NekoSamy
+[03Dec2024 22:19:57.765] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/295, l='ServerLevel[world]', x=-730.30, y=73.11, z=950.70] died, message: 'Unemployed was slain by Zombie'
+[03Dec2024 22:20:53.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:wool'
+[03Dec2024 22:20:53.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... nekosamy wool<--[HERE]
+[03Dec2024 22:21:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [White Wool] to NekoSamy
+[03Dec2024 22:21:53.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 10 [White Wool] to NekoSamy
+[03Dec2024 22:22:33.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 10 [White Wool] to NekoSamy
+[03Dec2024 22:23:53.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NekoSamy lost connection: Disconnected
+[03Dec2024 22:23:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy left the game
+[03Dec2024 22:23:53.619] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NekoSamy
