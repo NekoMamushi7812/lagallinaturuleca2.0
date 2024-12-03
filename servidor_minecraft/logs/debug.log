@@ -10050,3 +10050,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [03Dec2024 22:29:53.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 22:29:53.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 22:32:14.917] [Server thread/DEBUG] [VanillaTweaks/]: Loaded io.github.strikerrocker.vt.VTServiceImpl@29e66946 for service interface io.github.strikerrocker.vt.IVTService
+[03Dec2024 22:34:53.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 22:34:53.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 22:36:04.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moisesito07 lost connection: Disconnected
+[03Dec2024 22:36:04.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moisesito07 left the game
+[03Dec2024 22:36:04.423] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Moisesito07
+[03Dec2024 22:36:04.423] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Moisesito07
+[03Dec2024 22:39:53.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 22:39:53.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
