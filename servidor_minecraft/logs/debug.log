@@ -10604,3 +10604,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 20:52:08.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA was shot by Skeleton
 [11Dec2024 20:52:08.720] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of SauloJA
 [11Dec2024 20:52:08.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SauloJA
+[11Dec2024 20:56:55.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 20:56:55.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:01:55.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:01:55.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
