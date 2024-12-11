@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2024-12-11 19:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-11 19:29:36 +0000"
@@ -219,7 +225,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-11 19:36:08 +0000",
       "minecraft:spider": "2024-12-11 19:35:15 +0000",
-      "minecraft:creeper": "2024-12-11 19:31:58 +0000"
+      "minecraft:creeper": "2024-12-11 19:31:58 +0000",
+      "minecraft:zombie": "2024-12-11 19:37:16 +0000"
     },
     "done": false
   },
@@ -268,6 +275,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-11 19:32:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-11 19:42:36 +0000"
     },
     "done": true
   },
@@ -682,6 +695,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-11 19:30:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 19:37:17 +0000"
     },
     "done": true
   },
@@ -1126,6 +1145,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-11 19:37:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-11 19:30:18 +0000"
@@ -1182,6 +1207,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-11 19:44:09 +0000",
+      "rotten_flesh": "2024-12-11 19:38:37 +0000",
       "carrot": "2024-12-11 19:29:17 +0000"
     },
     "done": false
