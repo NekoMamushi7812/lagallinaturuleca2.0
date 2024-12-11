@@ -10304,3 +10304,228 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 20:31:55.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Dec2024 20:32:16.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6162, l='ServerLevel[world]', x=-752.51, y=66.00, z=969.54] died, message: 'Unemployed was slain by Zombie'
 [11Dec2024 20:32:21.100] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mushroom_house/house/house_1
+[11Dec2024 20:32:30.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/6164, l='ServerLevel[world]', x=-752.50, y=66.00, z=969.83] died, message: 'Nitwit was slain by Zombie Villager'
+[11Dec2024 20:32:41.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> ya me aburri de juagr mine cra
+[11Dec2024 20:32:42.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> jasjajs
+[11Dec2024 20:32:44.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6163, l='ServerLevel[world]', x=-752.30, y=66.00, z=968.50] died, message: 'Unemployed was slain by Zombie Villager'
+[11Dec2024 20:33:09.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> ya me voy
+[11Dec2024 20:33:13.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> bueno
+[11Dec2024 20:33:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> hay te dejo el server prendido
+[11Dec2024 20:33:19.150] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_1_3
+[11Dec2024 20:33:19.153] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_1_1
+[11Dec2024 20:33:19.154] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_4
+[11Dec2024 20:33:19.155] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_2
+[11Dec2024 20:33:19.156] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_2
+[11Dec2024 20:33:19.157] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_1
+[11Dec2024 20:33:19.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_5
+[11Dec2024 20:33:19.159] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_1
+[11Dec2024 20:33:19.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_straight_2
+[11Dec2024 20:33:19.162] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_straight_1
+[11Dec2024 20:33:19.164] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_3
+[11Dec2024 20:33:19.165] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_2
+[11Dec2024 20:33:19.167] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/down/stairs_down_1
+[11Dec2024 20:33:19.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_9
+[11Dec2024 20:33:19.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_7
+[11Dec2024 20:33:19.169] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_2
+[11Dec2024 20:33:19.171] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_7
+[11Dec2024 20:33:19.172] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_3
+[11Dec2024 20:33:19.172] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_4
+[11Dec2024 20:33:19.173] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_7
+[11Dec2024 20:33:19.173] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_1
+[11Dec2024 20:33:19.175] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_3
+[11Dec2024 20:33:19.175] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/wall_1
+[11Dec2024 20:33:19.176] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_5
+[11Dec2024 20:33:19.177] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_mid_2
+[11Dec2024 20:33:19.178] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_1
+[11Dec2024 20:33:19.179] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_2
+[11Dec2024 20:33:19.179] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_4
+[11Dec2024 20:33:19.180] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corner_filler
+[11Dec2024 20:33:19.181] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/tower/mid/tower_middle_1
+[11Dec2024 20:33:19.183] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_28
+[11Dec2024 20:33:19.184] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_5
+[11Dec2024 20:33:19.184] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_5
+[11Dec2024 20:33:19.187] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_9
+[11Dec2024 20:33:19.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_5
+[11Dec2024 20:33:19.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_2
+[11Dec2024 20:33:19.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/empty
+[11Dec2024 20:33:19.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/up/stairs_up_1
+[11Dec2024 20:33:19.191] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_8
+[11Dec2024 20:33:19.192] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_10
+[11Dec2024 20:33:19.193] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_18
+[11Dec2024 20:33:19.194] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_27
+[11Dec2024 20:33:19.195] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_9
+[11Dec2024 20:33:19.196] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_3
+[11Dec2024 20:33:19.199] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_11
+[11Dec2024 20:33:19.200] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_6
+[11Dec2024 20:33:19.200] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_6
+[11Dec2024 20:33:19.202] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_5
+[11Dec2024 20:33:19.202] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_1
+[11Dec2024 20:33:19.204] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_25
+[11Dec2024 20:33:19.205] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_4
+[11Dec2024 20:33:19.205] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_6
+[11Dec2024 20:33:19.206] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_6
+[11Dec2024 20:33:19.207] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/t/corridor_t_1
+[11Dec2024 20:33:19.208] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_3
+[11Dec2024 20:33:19.209] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_1
+[11Dec2024 20:33:19.211] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_4
+[11Dec2024 20:33:19.212] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/corner/corridor_corner_3
+[11Dec2024 20:33:19.215] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/tower/top/tower_top_1
+[11Dec2024 20:33:19.217] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/up/stairs_up_2
+[11Dec2024 20:33:19.219] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_7
+[11Dec2024 20:33:19.221] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_4
+[11Dec2024 20:33:19.222] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_8
+[11Dec2024 20:33:19.223] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_8
+[11Dec2024 20:33:19.224] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/tower/base/tower_base_1
+[11Dec2024 20:33:19.225] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_4
+[11Dec2024 20:33:19.225] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_2
+[11Dec2024 20:33:19.240] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/boss_room
+[11Dec2024 20:33:19.245] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_4
+[11Dec2024 20:33:19.246] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_6
+[11Dec2024 20:33:19.247] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_2
+[11Dec2024 20:33:19.248] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_7
+[11Dec2024 20:33:19.248] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_1
+[11Dec2024 20:33:19.249] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_bottom
+[11Dec2024 20:33:19.250] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/down/stairs_down_2
+[11Dec2024 20:33:19.251] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_24
+[11Dec2024 20:33:19.252] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/corner/corridor_corner_1
+[11Dec2024 20:33:19.253] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_9
+[11Dec2024 20:33:19.254] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_32
+[11Dec2024 20:33:19.255] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_2
+[11Dec2024 20:33:19.255] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_7
+[11Dec2024 20:33:19.256] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_23
+[11Dec2024 20:33:19.257] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_top
+[11Dec2024 20:33:19.258] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_3
+[11Dec2024 20:33:19.258] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_15
+[11Dec2024 20:33:19.259] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_5
+[11Dec2024 20:33:19.260] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_19
+[11Dec2024 20:33:19.261] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_17
+[11Dec2024 20:33:19.262] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_33
+[11Dec2024 20:33:19.264] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_8
+[11Dec2024 20:33:19.265] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/straight/corridor_straight_7
+[11Dec2024 20:33:19.266] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/straight/corridor_straight_8
+[11Dec2024 20:33:19.267] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/entrance/entrance_1
+[11Dec2024 20:33:21.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_03
+[11Dec2024 20:33:21.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_medium_04
+[11Dec2024 20:33:21.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_02
+[11Dec2024 20:33:21.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_04
+[11Dec2024 20:33:21.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_small_06
+[11Dec2024 20:33:21.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_small_07
+[11Dec2024 20:33:21.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_medium_06
+[11Dec2024 20:33:21.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_large_03
+[11Dec2024 20:33:21.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_01
+[11Dec2024 20:33:21.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_small_12
+[11Dec2024 20:33:21.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_05
+[11Dec2024 20:33:21.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_small_01
+[11Dec2024 20:33:21.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/decoration/water_tower_1
+[11Dec2024 20:33:21.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/houses/house_small_04
+[11Dec2024 20:33:21.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_1
+[11Dec2024 20:33:21.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/straight
+[11Dec2024 20:33:21.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_3
+[11Dec2024 20:33:21.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/woodworker
+[11Dec2024 20:33:21.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_2
+[11Dec2024 20:33:21.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_3
+[11Dec2024 20:33:21.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/fishing_hut
+[11Dec2024 20:33:21.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_2
+[11Dec2024 20:33:21.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/butcher
+[11Dec2024 20:33:21.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_3
+[11Dec2024 20:33:21.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_4
+[11Dec2024 20:33:21.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_1
+[11Dec2024 20:33:21.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_2
+[11Dec2024 20:33:21.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_5
+[11Dec2024 20:33:21.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/mason
+[11Dec2024 20:33:21.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/flower_pot
+[11Dec2024 20:33:21.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_1
+[11Dec2024 20:33:21.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_2
+[11Dec2024 20:33:21.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/goddess_statue
+[11Dec2024 20:33:21.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/terminator
+[11Dec2024 20:33:21.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_2
+[11Dec2024 20:33:21.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/smith
+[11Dec2024 20:33:21.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/garden
+[11Dec2024 20:33:21.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/well
+[11Dec2024 20:33:21.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/tannery
+[11Dec2024 20:33:21.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/campfire
+[11Dec2024 20:33:21.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/cartographer
+[11Dec2024 20:33:21.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/library
+[11Dec2024 20:33:21.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/chemist
+[11Dec2024 20:33:21.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_1
+[11Dec2024 20:33:21.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/shepherd
+[11Dec2024 20:33:21.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/inter
+[11Dec2024 20:33:21.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_1
+[11Dec2024 20:33:21.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_1
+[11Dec2024 20:33:21.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/oceanographer
+[11Dec2024 20:33:21.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/bench
+[11Dec2024 20:33:21.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/fountain
+[11Dec2024 20:33:21.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> si
+[11Dec2024 20:33:23.693] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[11Dec2024 20:33:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Dec2024 20:33:29.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pene<--[HERE]
+[11Dec2024 20:33:34.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NekoSamy lost connection: Disconnected
+[11Dec2024 20:33:34.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy left the game
+[11Dec2024 20:33:34.580] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of NekoSamy
+[11Dec2024 20:33:34.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NekoSamy
+[11Dec2024 20:33:35.722] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 20:33:38.514] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_1
+[11Dec2024 20:33:38.518] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_2
+[11Dec2024 20:33:38.529] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_3
+[11Dec2024 20:33:38.534] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/butcher
+[11Dec2024 20:33:38.539] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/cartographer
+[11Dec2024 20:33:38.542] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/farm
+[11Dec2024 20:33:38.545] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/fishmonger
+[11Dec2024 20:33:38.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/leatherhouse
+[11Dec2024 20:33:38.551] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/library
+[11Dec2024 20:33:38.555] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/mason
+[11Dec2024 20:33:38.610] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/shepherd
+[11Dec2024 20:33:38.613] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/smith
+[11Dec2024 20:33:38.617] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/fd_farm
+[11Dec2024 20:33:38.619] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/engineer
+[11Dec2024 20:33:38.625] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/garden
+[11Dec2024 20:33:38.629] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/hunter
+[11Dec2024 20:33:38.632] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/oceanographer
+[11Dec2024 20:33:38.635] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/woodworker
+[11Dec2024 20:33:38.660] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/jungle
+[11Dec2024 20:33:38.678] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[11Dec2024 20:33:38.695] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/roads/airship
+[11Dec2024 20:33:40.269] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[11Dec2024 20:33:45.136] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[11Dec2024 20:33:45.141] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[11Dec2024 20:33:47.491] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[11Dec2024 20:34:45.644] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_0_4
+[11Dec2024 20:34:45.646] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_1_2
+[11Dec2024 20:34:45.647] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_11
+[11Dec2024 20:34:45.648] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_10
+[11Dec2024 20:34:45.649] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_10
+[11Dec2024 20:34:45.651] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_34
+[11Dec2024 20:34:45.652] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_6
+[11Dec2024 20:34:45.653] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_6
+[11Dec2024 20:34:45.654] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_12
+[11Dec2024 20:34:45.656] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_4
+[11Dec2024 20:34:45.657] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_20
+[11Dec2024 20:34:45.658] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_3
+[11Dec2024 20:34:45.659] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_31
+[11Dec2024 20:34:45.661] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/t/corridor_t_3
+[11Dec2024 20:34:45.663] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_4
+[11Dec2024 20:34:45.664] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_30
+[11Dec2024 20:34:58.124] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[11Dec2024 20:35:04.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_3
+[11Dec2024 20:35:04.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_mid_1
+[11Dec2024 20:35:04.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_6
+[11Dec2024 20:35:04.289] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/corner/corridor_corner_2
+[11Dec2024 20:35:04.290] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_21
+[11Dec2024 20:35:04.291] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/t/corridor_t_2
+[11Dec2024 20:35:04.292] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_2
+[11Dec2024 20:35:04.293] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_4_1
+[11Dec2024 20:35:04.294] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_22
+[11Dec2024 20:35:04.295] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_3
+[11Dec2024 20:35:04.296] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_14
+[11Dec2024 20:35:04.297] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_6
+[11Dec2024 20:35:04.298] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_16
+[11Dec2024 20:35:04.299] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_2
+[11Dec2024 20:35:04.301] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_4_3
+[11Dec2024 20:35:04.302] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_13
+[11Dec2024 20:35:08.184] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_06
+[11Dec2024 20:35:13.629] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[11Dec2024 20:36:55.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 20:36:55.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 20:37:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA has made the advancement [Odd Looking Rocks]
+[11Dec2024 20:41:55.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 20:41:55.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
