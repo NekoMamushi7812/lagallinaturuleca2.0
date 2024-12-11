@@ -584,3 +584,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 19:50:51.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA has made the advancement [A Seedy Place]
 [11Dec2024 19:50:52.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> te tire 2 panes
 [11Dec2024 19:50:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> gracias sisi
+[11Dec2024 19:52:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> voy a estar afk
+[11Dec2024 19:52:38.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> ok
+[11Dec2024 19:55:25.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[11Dec2024 19:55:41.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy no longer a server operator
+[11Dec2024 19:55:46.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected float
+[11Dec2024 19:55:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time set nigth<--[HERE]
+[11Dec2024 19:55:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
