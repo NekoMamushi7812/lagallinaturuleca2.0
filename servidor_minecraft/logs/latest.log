@@ -522,3 +522,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 18:19:08.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NekoSamy (2c20d0ec-a4c9-3bed-a5fd-3a5caec8dda0) successfully connected to voice chat
 [11Dec2024 18:32:41.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [11Dec2024 18:33:13.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy has reached the goal [Ice Scream]
+[11Dec2024 18:55:52.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NekoSamy lost connection: Disconnected
+[11Dec2024 18:55:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy left the game
+[11Dec2024 18:55:52.838] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NekoSamy
