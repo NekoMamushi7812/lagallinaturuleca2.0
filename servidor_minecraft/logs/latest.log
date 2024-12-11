@@ -637,3 +637,26 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 20:33:34.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NekoSamy left the game
 [11Dec2024 20:33:34.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NekoSamy
 [11Dec2024 20:37:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA has made the advancement [Odd Looking Rocks]
+[11Dec2024 20:43:56.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA has made the advancement [Diamonds!]
+[11Dec2024 20:44:40.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA moved too quickly! 7.890207071587383,-2.0,5.904616139869631
+[11Dec2024 20:44:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA is bleeding. SauloJA was shot by Skeleton
+[11Dec2024 20:45:10.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA was shot by Skeleton
+[11Dec2024 20:45:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> a
+[11Dec2024 20:46:18.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA moved too quickly! -10.191073043528576,-0.2987031463477763,0.36511439118510225
+[11Dec2024 20:46:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> a
+[11Dec2024 20:46:29.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA moved too quickly! -8.679831938299628,-1.130906499714527,5.133798210983741
+[11Dec2024 20:46:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA is bleeding. SauloJA was slain by Spider
+[11Dec2024 20:46:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA was slain by Spider
+[11Dec2024 20:49:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA has made the advancement [Crops of the Wild]
+[11Dec2024 20:50:02.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA moved too quickly! -5.848250983345565,0.41999998688697815,8.490254005027168
+[11Dec2024 20:51:01.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA moved too quickly! -10.030317288197011,1.7330383394947972,-0.29380704393906854
+[11Dec2024 20:51:30.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> s
+[11Dec2024 20:51:39.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA moved too quickly! -9.985165065066326,0.41999998688697815,1.639564998263154
+[11Dec2024 20:51:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA is bleeding. SauloJA was shot by Skeleton
+[11Dec2024 20:52:01.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 62d09096-7d67-3aaa-b234-226e3f6b3539 timed out
+[11Dec2024 20:52:01.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player SauloJA
+[11Dec2024 20:52:01.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to SauloJA
+[11Dec2024 20:52:08.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA lost connection: Timed out
+[11Dec2024 20:52:08.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA left the game
+[11Dec2024 20:52:08.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA was shot by Skeleton
+[11Dec2024 20:52:08.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SauloJA
