@@ -9851,3 +9851,93 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 19:55:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [11Dec2024 19:56:55.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 19:56:55.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 20:01:55.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 20:01:55.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 20:01:56.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[11Dec2024 20:01:56.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[11Dec2024 20:01:56.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[11Dec2024 20:01:56.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[11Dec2024 20:01:56.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[11Dec2024 20:01:56.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[11Dec2024 20:01:56.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[11Dec2024 20:01:56.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[11Dec2024 20:01:56.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[11Dec2024 20:01:56.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[11Dec2024 20:01:56.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[11Dec2024 20:02:10.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/inter
+[11Dec2024 20:02:10.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_2
+[11Dec2024 20:02:10.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[11Dec2024 20:02:10.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/woodworker
+[11Dec2024 20:02:10.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[11Dec2024 20:02:10.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_2
+[11Dec2024 20:02:10.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_1
+[11Dec2024 20:02:10.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/garden
+[11Dec2024 20:02:10.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/fd_farm
+[11Dec2024 20:02:10.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/butcher
+[11Dec2024 20:02:10.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[11Dec2024 20:02:10.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[11Dec2024 20:02:10.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[11Dec2024 20:02:10.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[11Dec2024 20:02:10.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[11Dec2024 20:02:10.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[11Dec2024 20:02:10.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[11Dec2024 20:02:10.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[11Dec2024 20:02:10.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/mason
+[11Dec2024 20:02:10.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_3
+[11Dec2024 20:02:10.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[11Dec2024 20:02:10.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/deco/goddess_statue
+[11Dec2024 20:02:10.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_2
+[11Dec2024 20:02:10.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/library
+[11Dec2024 20:02:10.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/engineer
+[11Dec2024 20:02:10.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_1
+[11Dec2024 20:02:10.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[11Dec2024 20:02:10.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/shepherd
+[11Dec2024 20:02:10.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/chemist
+[11Dec2024 20:02:10.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_1
+[11Dec2024 20:02:10.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_3
+[11Dec2024 20:02:10.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/hunter
+[11Dec2024 20:02:10.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/smith
+[11Dec2024 20:02:10.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[11Dec2024 20:02:10.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_2
+[11Dec2024 20:02:10.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/oceanographer
+[11Dec2024 20:02:10.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[11Dec2024 20:02:10.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
+[11Dec2024 20:02:13.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_1
+[11Dec2024 20:02:13.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_3
+[11Dec2024 20:02:13.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/straight
+[11Dec2024 20:02:13.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/garden
+[11Dec2024 20:02:13.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_1
+[11Dec2024 20:02:13.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/fishing_hut
+[11Dec2024 20:02:13.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/armoursmith
+[11Dec2024 20:02:13.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_1
+[11Dec2024 20:02:13.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_2
+[11Dec2024 20:02:13.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_1
+[11Dec2024 20:02:13.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_2
+[11Dec2024 20:02:13.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/smith
+[11Dec2024 20:02:13.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_2
+[11Dec2024 20:02:13.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_3
+[11Dec2024 20:02:13.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_5
+[11Dec2024 20:02:13.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/archer
+[11Dec2024 20:02:13.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/bench
+[11Dec2024 20:02:13.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/terminator
+[11Dec2024 20:02:13.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_1
+[11Dec2024 20:02:13.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_1
+[11Dec2024 20:02:13.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_2
+[11Dec2024 20:02:13.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_4
+[11Dec2024 20:02:13.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/woodworker
+[11Dec2024 20:02:13.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/flowerbed
+[11Dec2024 20:02:13.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/fountain
+[11Dec2024 20:02:13.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/shepherd
+[11Dec2024 20:02:13.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_4
+[11Dec2024 20:02:13.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_2
+[11Dec2024 20:02:13.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/cartography
+[11Dec2024 20:02:13.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_1
+[11Dec2024 20:02:13.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_3
+[11Dec2024 20:02:13.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/butcher
+[11Dec2024 20:02:13.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/weaponsmith
+[11Dec2024 20:02:13.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/well
+[11Dec2024 20:02:13.669] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[11Dec2024 20:06:55.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 20:06:55.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 20:11:55.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 20:11:55.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

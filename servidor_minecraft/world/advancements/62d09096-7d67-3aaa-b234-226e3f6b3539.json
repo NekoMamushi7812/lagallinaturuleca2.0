@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-11 19:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-11 19:50:01 +0000"
@@ -1458,6 +1464,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-11 19:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-11 19:59:30 +0000"
     },
     "done": true
   },
