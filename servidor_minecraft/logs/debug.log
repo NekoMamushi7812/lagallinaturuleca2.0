@@ -9743,3 +9743,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 18:34:21.497] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_2
 [11Dec2024 18:34:21.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/statue_1
 [11Dec2024 18:34:21.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_1
+[11Dec2024 18:37:31.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:37:31.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 18:42:31.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:42:31.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 18:45:39.993] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-813, y=69, z=935}) doesn't have enough leaves around top most log
