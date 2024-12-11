@@ -591,3 +591,35 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 19:55:46.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected float
 [11Dec2024 19:55:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time set nigth<--[HERE]
 [11Dec2024 19:55:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[11Dec2024 20:27:52.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> regrese
+[11Dec2024 20:27:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> a
+[11Dec2024 20:27:57.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> ola
+[11Dec2024 20:28:03.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> por que eres mini?
+[11Dec2024 20:28:05.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> olaaaaaaaaa
+[11Dec2024 20:28:08.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> nomas
+[11Dec2024 20:28:25.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> sete va a bugiar
+[11Dec2024 20:28:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> con las armaduras
+[11Dec2024 20:28:33.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> si
+[11Dec2024 20:28:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> que no son vanillas
+[11Dec2024 20:29:05.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> listo
+[11Dec2024 20:29:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> que rico
+[11Dec2024 20:29:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> las pantuflas Xd
+[11Dec2024 20:29:37.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> ajsjajs
+[11Dec2024 20:29:41.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> me da pa saltar 2 bloques
+[11Dec2024 20:29:48.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> y no me ago daño de caida
+[11Dec2024 20:29:55.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SauloJA lost connection: Timed out
+[11Dec2024 20:29:55.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA left the game
+[11Dec2024 20:29:55.974] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SauloJA
+[11Dec2024 20:30:46.325] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fb98b2d[id=<null>,name=SauloJA,properties={},legacy=false] (/127.240.140.195:48955) lost connection: Disconnected
+[11Dec2024 20:31:07.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SauloJA[/127.240.140.195:60291] logged in with entity id 15759 at (-840.3756383499235, 63.0, 946.7504597087822)
+[11Dec2024 20:31:07.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SauloJA joined the game
+[11Dec2024 20:31:07.193] [Server thread/INFO] [Jade/]: Syncing config to SauloJA (62d09096-7d67-3aaa-b234-226e3f6b3539)
+[11Dec2024 20:31:07.554] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SauloJA (18)
+[11Dec2024 20:31:07.555] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SauloJA
+[11Dec2024 20:31:07.581] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] SauloJA: protocol version: 2.0
+[11Dec2024 20:31:09.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 62d09096-7d67-3aaa-b234-226e3f6b3539
+[11Dec2024 20:31:10.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 62d09096-7d67-3aaa-b234-226e3f6b3539
+[11Dec2024 20:31:10.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SauloJA (62d09096-7d67-3aaa-b234-226e3f6b3539) successfully connected to voice chat
+[11Dec2024 20:31:47.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SauloJA> zi
+[11Dec2024 20:31:51.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NekoSamy> so
+[11Dec2024 20:32:16.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6162, l='ServerLevel[world]', x=-752.51, y=66.00, z=969.54] died, message: 'Unemployed was slain by Zombie'
