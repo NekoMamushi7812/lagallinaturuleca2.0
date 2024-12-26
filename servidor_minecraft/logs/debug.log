@@ -9474,62 +9474,86 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [26Dec2024 19:25:35.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c20d0ec-a4c9-3bed-a5fd-3a5caec8dda0
 [26Dec2024 19:30:10.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 19:30:10.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
-rios} mods - versions {5.10.0+1.20.1}
-[26Dec2024 19:16:23.081] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/doubledoors-1.20.1-5.9.jar
-[26Dec2024 19:16:23.082] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file doubledoors-1.20.1-5.9.jar with {doubledoors} mods - versions {5.9}
-[26Dec2024 19:16:23.083] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/dynamic-fps-3.6.3+minecraft-1.20.0-forge.jar
-[26Dec2024 19:16:23.084] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file dynamic-fps-3.6.3+minecraft-1.20.0-forge.jar with {dynamic_fps} mods - versions {3.6.3}
-[26Dec2024 19:16:23.085] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar
-[26Dec2024 19:16:23.086] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar with {dynamiclights} mods - versions {1.8.3+mod}
-[26Dec2024 19:16:23.089] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar
-[26Dec2024 19:16:23.089] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file EasyAnvils-v8.0.2-1.20.1-Forge.jar with {easyanvils} mods - versions {8.0.2}
-[26Dec2024 19:16:23.092] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar
-[26Dec2024 19:16:23.094] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar with {easyshulkerboxes} mods - versions {8.0.2}
-[26Dec2024 19:16:23.095] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/elevatorid-1.20.1-lex-1.9.jar
-[26Dec2024 19:16:23.095] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file elevatorid-1.20.1-lex-1.9.jar with {elevatorid} mods - versions {1.20.1-lex-1.9}
-[26Dec2024 19:16:23.096] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/endermanoverhaul-forge-1.20.1-1.0.4.jar
-[26Dec2024 19:16:23.097] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file endermanoverhaul-forge-1.20.1-1.0.4.jar with {endermanoverhaul} mods - versions {1.0.4}
-[26Dec2024 19:16:23.098] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/entityculling-forge-1.7.0-mc1.20.1.jar
-[26Dec2024 19:16:23.099] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file entityculling-forge-1.7.0-mc1.20.1.jar with {entityculling} mods - versions {1.7.0}
-[26Dec2024 19:16:23.100] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/Explorify v1.6.2 f10-48.jar
-[26Dec2024 19:16:23.100] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Explorify v1.6.2 f10-48.jar with {explorify} mods - versions {1.6.2}
-[26Dec2024 19:16:23.101] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/Fallingleaves-1.20.1-2.1.0.jar
-[26Dec2024 19:16:23.102] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Fallingleaves-1.20.1-2.1.0.jar with {fallingleaves} mods - versions {2.1.0}
-[26Dec2024 19:16:23.104] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/FallingTree-1.20.1-4.3.4.jar
-[26Dec2024 19:16:23.105] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file FallingTree-1.20.1-4.3.4.jar with {fallingtree} mods - versions {4.3.4}
-[26Dec2024 19:16:23.107] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/FarmersDelight-1.20.1-1.2.4.jar
-[26Dec2024 19:16:23.107] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file FarmersDelight-1.20.1-1.2.4.jar with {farmersdelight} mods - versions {1.20.1-1.2.4}
-[26Dec2024 19:16:23.113] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
-[26Dec2024 19:16:23.113] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ferritecore-6.0.1-forge.jar with {ferritecore} mods - versions {6.0.1}
-[26Dec2024 19:16:23.115] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/fps_optimiser_-2.1-forge-1.20.1.jar
-[26Dec2024 19:16:23.115] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file fps_optimiser_-2.1-forge-1.20.1.jar with {fps_optimiser_} mods - versions {2.1}
-[26Dec2024 19:16:23.118] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/FramedBlocks-9.3.1.jar
-[26Dec2024 19:16:23.119] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file FramedBlocks-9.3.1.jar with {framedblocks} mods - versions {9.3.1}
-[26Dec2024 19:16:23.122] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/framework-forge-1.20.1-0.7.6.jar
-[26Dec2024 19:16:23.123] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file framework-forge-1.20.1-0.7.6.jar with {framework} mods - versions {0.7.6}
-[26Dec2024 19:16:23.124] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/ftb-library-forge-2001.2.4.jar
-[26Dec2024 19:16:23.125] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ftb-library-forge-2001.2.4.jar with {ftblibrary} mods - versions {2001.2.4}
-[26Dec2024 19:16:23.126] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/ftb-ultimine-forge-2001.1.5.jar
-[26Dec2024 19:16:23.126] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ftb-ultimine-forge-2001.1.5.jar with {ftbultimine} mods - versions {2001.1.5}
-[26Dec2024 19:16:23.127] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/Fusion-1.20.1-6.0.0.3.jar
-[26Dec2024 19:16:23.129] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Fusion-1.20.1-6.0.0.3.jar with {fusion} mods - versions {1.20.1-6.0.0.3}
-[26Dec2024 19:16:23.130] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
-[26Dec2024 19:16:23.130] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file geckolib-forge-1.20.1-4.4.9.jar with {geckolib} mods - versions {4.4.9}
-[26Dec2024 19:16:23.131] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/GlitchCore-forge-1.20.1-0.0.1.0.jar
-[26Dec2024 19:16:23.132] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file GlitchCore-forge-1.20.1-0.0.1.0.jar with {glitchcore} mods - versions {0.0.1.0}
-[26Dec2024 19:16:23.134] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/goblintraders-forge-1.20.1-1.9.3.jar
-[26Dec2024 19:16:23.135] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file goblintraders-forge-1.20.1-1.9.3.jar with {goblintraders} mods - versions {1.9.3}
-[26Dec2024 19:16:23.138] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/Incendium_1.20.x_v5.3.5.jar
-[26Dec2024 19:16:23.139] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Incendium_1.20.x_v5.3.5.jar with {incendium} mods - versions {5.3.5}
-[26Dec2024 19:16:23.139] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/infinitetrading-1.20.1-4.5.jar
-[26Dec2024 19:16:23.140] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file infinitetrading-1.20.1-4.5.jar with {infinitetrading} mods - versions {4.5}
-[26Dec2024 19:16:23.141] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/InventoryProfilesNext-forge-1.20-1.10.10.jar
-[26Dec2024 19:16:23.142] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file InventoryProfilesNext-forge-1.20-1.10.10.jar with {inventoryprofilesnext} mods - versions {1.10.10}
-[26Dec2024 19:16:23.143] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/ironchest-1.20.1-14.4.4.jar
-[26Dec2024 19:16:23.143] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ironchest-1.20.1-14.4.4.jar with {ironchest} mods - versions {1.20.1-14.4.4}
-[26Dec2024 19:16:23.144] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/ironfurnaces-1.20.1-4.1.6.jar
-[26Dec2024 19:16:23.145] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ironfurnaces-1.20.1-4.1.6.jar with {ironfurnaces} mods - versions {4.1.6}
-[26Dec2024 19:16:23.146] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/Jade-1.20.1-forge-11.11.1.jar
+[26Dec2024 19:35:10.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 19:35:10.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 19:38:50.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[26Dec2024 19:40:02.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[26Dec2024 19:40:02.773] [Server thread/DEBUG] [VanillaTweaks/]: Loaded io.github.strikerrocker.vt.VTServiceImpl@436e2698 for service interface io.github.strikerrocker.vt.IVTService
+[26Dec2024 19:40:06.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[26Dec2024 19:40:06.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[26Dec2024 19:40:06.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[26Dec2024 19:40:06.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[26Dec2024 19:40:06.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[26Dec2024 19:40:06.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[26Dec2024 19:40:06.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[26Dec2024 19:40:06.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[26Dec2024 19:40:06.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[26Dec2024 19:40:06.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[26Dec2024 19:40:06.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[26Dec2024 19:40:10.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 19:40:10.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 19:40:36.918] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Dec2024 19:40:36.919] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Dec2024 19:40:36.920] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Dec2024 19:40:36.921] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:36.925] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Dec2024 19:40:46.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/inter
+[26Dec2024 19:40:46.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_2
+[26Dec2024 19:40:46.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[26Dec2024 19:40:46.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/woodworker
+[26Dec2024 19:40:46.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[26Dec2024 19:40:46.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_2
+[26Dec2024 19:40:46.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_1
+[26Dec2024 19:40:46.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/garden
+[26Dec2024 19:40:46.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/fd_farm
+[26Dec2024 19:40:46.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/butcher
+[26Dec2024 19:40:46.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[26Dec2024 19:40:46.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[26Dec2024 19:40:46.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[26Dec2024 19:40:46.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[26Dec2024 19:40:46.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[26Dec2024 19:40:46.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[26Dec2024 19:40:46.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[26Dec2024 19:40:46.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[26Dec2024 19:40:46.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/mason
+[26Dec2024 19:40:46.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_3
+[26Dec2024 19:40:46.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[26Dec2024 19:40:46.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/deco/goddess_statue
+[26Dec2024 19:40:46.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_2
+[26Dec2024 19:40:46.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/library
+[26Dec2024 19:40:46.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/engineer
+[26Dec2024 19:40:46.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_1
+[26Dec2024 19:40:46.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[26Dec2024 19:40:46.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/shepherd
+[26Dec2024 19:40:46.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/chemist
+[26Dec2024 19:40:46.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_1
+[26Dec2024 19:40:46.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_3
+[26Dec2024 19:40:46.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/hunter
+[26Dec2024 19:40:46.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/smith
+[26Dec2024 19:40:46.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[26Dec2024 19:40:46.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_2
+[26Dec2024 19:40:46.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/oceanographer
+[26Dec2024 19:40:46.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[26Dec2024 19:40:46.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
+[26Dec2024 19:40:47.227] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Dec2024 19:40:47.236] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Dec2024 19:40:47.236] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin_Mansion from biomemakeover-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Dec2024 19:41:18.878] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1175, y=102, z=2312}) doesn't have enough leaves around top most log
+[26Dec2024 19:41:18.881] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1175, y=103, z=2312}) doesn't have enough leaves around top most log
+[26Dec2024 19:41:18.881] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1175, y=104, z=2312}) doesn't have enough leaves around top most log
+[26Dec2024 19:41:18.882] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1175, y=105, z=2312}) doesn't have enough leaves around top most log
+[26Dec2024 19:41:20.761] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1175, y=100, z=2312}) doesn't have enough leaves around top most log
+main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/Jade-1.20.1-forge-11.11.1.jar
 [26Dec2024 19:16:23.146] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Jade-1.20.1-forge-11.11.1.jar with {jade} mods - versions {11.11.1+forge}
 [26Dec2024 19:16:23.147] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/lagallinaturuleca2.0/servidor_minecraft/mods/jei-1.20.1-forge-15.16.2.73.jar
 [26Dec2024 19:16:23.148] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file jei-1.20.1-forge-15.16.2.73.jar with {jei} mods - versions {15.16.2.73}
