@@ -588,9 +588,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [26Dec2024 20:04:02.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bonicebellako lost connection: Disconnected
 [26Dec2024 20:04:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bonicebellako left the game
 [26Dec2024 20:04:02.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bonicebellako
-16:41.056] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[26Dec2024 19:16:41.522] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[26Dec2024 19:16:41.540] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[26Dec2024 20:34:45.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NekoSamy moved too quickly! 9.902866341162735,1.694243743624682,0.04697313595522701
+[26Dec2024 20:34:55.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NekoSamy moved too quickly! 5.029175265512208,5.249999863458925,-7.789894514283901
+p to date!
 [26Dec2024 19:16:41.829] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
 [26Dec2024 19:16:41.832] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
 [26Dec2024 19:16:41.832] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
