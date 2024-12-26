@@ -584,11 +584,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [26Dec2024 19:50:28.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bonicebellako (c6f49899-c45c-3d07-b2a9-d520477c5595) successfully connected to voice chat
 [26Dec2024 19:51:18.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bonicebellako> *super laught*
 [26Dec2024 19:52:23.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Gamerule doFireTick is now set to: false]
-ctive/]: Loading Collective version 7.84.
-[26Dec2024 19:16:41.050] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[26Dec2024 19:16:41.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
-[26Dec2024 19:16:41.054] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
-[26Dec2024 19:16:41.056] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[26Dec2024 19:56:56.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NekoSamy moved too quickly! 0.4437700185679887,0.0,-10.094124948483568
+[26Dec2024 20:04:02.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bonicebellako lost connection: Disconnected
+[26Dec2024 20:04:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bonicebellako left the game
+[26Dec2024 20:04:02.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bonicebellako
+16:41.056] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
 [26Dec2024 19:16:41.522] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
 [26Dec2024 19:16:41.540] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
 [26Dec2024 19:16:41.829] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!

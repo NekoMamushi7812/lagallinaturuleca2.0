@@ -2413,6 +2413,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2024-12-26 20:06:01 +0000",
       "huntingpost": "2024-11-07 04:10:27 +0000",
       "brewingstand": "2024-11-07 04:04:51 +0000",
       "gardeningtable": "2024-11-07 04:03:10 +0000",
@@ -5193,6 +5194,48 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-11 20:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-12-26 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2024-12-26 20:06:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-26 20:06:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-12-26 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-26 20:06:01 +0000"
     },
     "done": true
   },
