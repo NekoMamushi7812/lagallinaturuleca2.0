@@ -565,22 +565,26 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [26Dec2024 19:25:35.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NekoSamy
 [26Dec2024 19:25:35.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NekoSamy
 [26Dec2024 19:25:35.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2c20d0ec-a4c9-3bed-a5fd-3a5caec8dda0
-] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (14.29 s after launch)
-[26Dec2024 19:16:32.830] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[26Dec2024 19:16:32.831] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[26Dec2024 19:16:34.072] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$bbn000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[26Dec2024 19:16:35.863] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3218 milliseconds
-[26Dec2024 19:16:36.515] [main/WARN] [mixin/]: @Final field f_58656_:Lnet/minecraft/world/inventory/ContainerData; in better_beacons-common.mixins.json:block_entity.BeaconBlockEntityMixin should be final
-[26Dec2024 19:16:36.523] [main/WARN] [mixin/]: @Final field f_58646_:[[Lnet/minecraft/world/effect/MobEffect; in better_beacons-common.mixins.json:block_entity.BeaconBlockEntityMixin should be final
-[26Dec2024 19:16:36.524] [main/WARN] [mixin/]: @Final field f_58647_:Ljava/util/Set; in better_beacons-common.mixins.json:block_entity.BeaconBlockEntityMixin should be final
-[26Dec2024 19:16:36.535] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on better_beacons-common.mixins.json:block_entity.BeaconBlockEntityMixin::handler$bao000$bb_applyTertiaryEffects exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[26Dec2024 19:16:39.592] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[26Dec2024 19:16:40.142] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
-[26Dec2024 19:16:40.144] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[26Dec2024 19:16:40.835] [modloading-worker-0/INFO] [mod.alexndr.simplecorelib.SimpleCoreLib/]: Hello from SimpleCoreLib!
-[26Dec2024 19:16:40.888] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[26Dec2024 19:16:40.900] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[26Dec2024 19:16:40.944] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
+[26Dec2024 19:48:02.662] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1debbbe0[id=<null>,name=bonicebellako,properties={},legacy=false] (/127.221.106.30:37669) lost connection: Disconnected
+[26Dec2024 19:48:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[26Dec2024 19:48:50.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op n nekosamy<--[HERE]
+[26Dec2024 19:48:55.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NekoSamy a server operator
+[26Dec2024 19:49:04.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Set own game mode to Creative Mode]
+[26Dec2024 19:50:08.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bonicebellako[/127.221.106.30:56273] logged in with entity id 6494 at (-740.0023555461316, 63.0, 1001.9793380881837)
+[26Dec2024 19:50:08.660] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[26Dec2024 19:50:08.721] [Server thread/INFO] [Puzzles Lib/]: Loading server config for puzzlesapi
+[26Dec2024 19:50:08.723] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Dec2024 19:50:08.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bonicebellako joined the game
+[26Dec2024 19:50:08.827] [Server thread/INFO] [Jade/]: Syncing config to bonicebellako (c6f49899-c45c-3d07-b2a9-d520477c5595)
+[26Dec2024 19:50:11.728] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bonicebellako (18)
+[26Dec2024 19:50:11.728] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bonicebellako
+[26Dec2024 19:50:11.819] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] bonicebellako: protocol version: 2.0
+[26Dec2024 19:50:22.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c6f49899-c45c-3d07-b2a9-d520477c5595
+[26Dec2024 19:50:28.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c6f49899-c45c-3d07-b2a9-d520477c5595
+[26Dec2024 19:50:28.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bonicebellako (c6f49899-c45c-3d07-b2a9-d520477c5595) successfully connected to voice chat
+[26Dec2024 19:51:18.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bonicebellako> *super laught*
+[26Dec2024 19:52:23.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: Gamerule doFireTick is now set to: false]
+ctive/]: Loading Collective version 7.84.
 [26Dec2024 19:16:41.050] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
 [26Dec2024 19:16:41.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
 [26Dec2024 19:16:41.054] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
