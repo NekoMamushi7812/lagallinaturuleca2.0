@@ -556,3 +556,37 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [31Dec2024 19:30:12.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lorexd4 lost connection: Disconnected
 [31Dec2024 19:30:12.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lorexd4 left the game
 [31Dec2024 19:30:12.389] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lorexd4
+[31Dec2024 19:48:35.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lorexd4[/127.193.129.139:60961] logged in with entity id 9807 at (-460.7331474361024, 84.0, 787.3094501088358)
+[31Dec2024 19:48:35.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lorexd4 joined the game
+[31Dec2024 19:48:35.931] [Server thread/INFO] [Jade/]: Syncing config to lorexd4 (44dc5280-cbf3-3e90-9e13-c1c69e41bdae)
+[31Dec2024 19:48:37.997] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lorexd4 (18)
+[31Dec2024 19:48:37.998] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lorexd4
+[31Dec2024 19:48:38.098] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] lorexd4: protocol version: 2.0
+[31Dec2024 19:48:45.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 44dc5280-cbf3-3e90-9e13-c1c69e41bdae
+[31Dec2024 19:48:46.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 44dc5280-cbf3-3e90-9e13-c1c69e41bdae
+[31Dec2024 19:48:46.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lorexd4 (44dc5280-cbf3-3e90-9e13-c1c69e41bdae) successfully connected to voice chat
+[31Dec2024 19:54:36.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lorexd4 lost connection: Disconnected
+[31Dec2024 19:54:36.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lorexd4 left the game
+[31Dec2024 19:54:36.487] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lorexd4
+[31Dec2024 19:57:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NekoSamy: The difficulty has been set to Normal]
+[31Dec2024 20:00:44.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bonicebellako[/127.221.106.30:46147] logged in with entity id 16421 at (-720.4442324945718, 65.0, 937.3000000119209)
+[31Dec2024 20:00:44.030] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[31Dec2024 20:00:44.079] [Server thread/INFO] [Puzzles Lib/]: Loading server config for puzzlesapi
+[31Dec2024 20:00:44.080] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[31Dec2024 20:00:44.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bonicebellako joined the game
+[31Dec2024 20:00:44.216] [Server thread/INFO] [Jade/]: Syncing config to bonicebellako (c6f49899-c45c-3d07-b2a9-d520477c5595)
+[31Dec2024 20:00:47.084] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bonicebellako (18)
+[31Dec2024 20:00:47.085] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bonicebellako
+[31Dec2024 20:00:47.173] [Netty Epoll Server IO #0/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] bonicebellako: protocol version: 2.0
+[31Dec2024 20:00:57.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c6f49899-c45c-3d07-b2a9-d520477c5595
+[31Dec2024 20:00:58.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c6f49899-c45c-3d07-b2a9-d520477c5595
+[31Dec2024 20:00:58.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bonicebellako (c6f49899-c45c-3d07-b2a9-d520477c5595) successfully connected to voice chat
+[31Dec2024 20:04:57.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lorexd4[/127.193.129.139:55157] logged in with entity id 17309 at (-235.14958199505259, 89.0, 837.7449216345341)
+[31Dec2024 20:04:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lorexd4 joined the game
+[31Dec2024 20:04:57.918] [Server thread/INFO] [Jade/]: Syncing config to lorexd4 (44dc5280-cbf3-3e90-9e13-c1c69e41bdae)
+[31Dec2024 20:04:59.577] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] lorexd4: protocol version: 2.0
+[31Dec2024 20:04:59.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lorexd4 (18)
+[31Dec2024 20:04:59.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lorexd4
+[31Dec2024 20:05:17.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 44dc5280-cbf3-3e90-9e13-c1c69e41bdae
+[31Dec2024 20:05:18.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 44dc5280-cbf3-3e90-9e13-c1c69e41bdae
+[31Dec2024 20:05:18.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lorexd4 (44dc5280-cbf3-3e90-9e13-c1c69e41bdae) successfully connected to voice chat
